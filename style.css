@@ -1,0 +1,40 @@
+
+.container{
+    margin-top: 6%;
+}
+
+.col{
+    margin-top: 8%;
+}
+
+
+
+h3{
+
+    font-size: 3em;
+    margin: 30px;
+    padding: 5;
+    text-align: center;
+
+}
+h5{
+    text-align: center;   
+    margin: 30px;
+    margin-right: 50%;
+    padding: 1;
+    
+
+}
+h6{
+    text-align: right;
+    margin-right: 60%;
+}
+.hasnae{
+    text-align: center;   
+    margin: 30px;
+    margin-right: 50%;
+    padding: 1;
+
+}
+
+
